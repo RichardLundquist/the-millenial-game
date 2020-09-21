@@ -1,6 +1,6 @@
 # the-millenial-game 
 
-![Alt text](game.png)
+![Alt text](processing_game2.png)
 
 A game about the hardships of life. Made in 2019
 
